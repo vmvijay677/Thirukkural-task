@@ -1,0 +1,167 @@
+#row1{
+    background-color: brown;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+#para1{
+    padding-top: 8px;
+    text-align: center;
+}
+
+#row2{
+    background-color: white;
+    height: 250px;
+}
+
+#img1{
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+    width: 65%;
+    padding-top: 1px;
+    
+}
+
+#para2{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+#para3{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 7px;
+    text-align: left;
+}
+
+#button{
+    margin-left: 8px;
+}
+
+#row3{
+    background-color: white;
+    font-size: 15px;
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#row4{
+    background-color: white;
+}
+
+#input{
+    width: 60%;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#row5{
+    background-color: white;
+}
+
+#button1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+#row6{
+    background-color: white;
+}
+
+#para5{
+    text-align: center;
+    font-size: 40px;
+    color: maroon;
+    padding-top: 15px;
+}
+
+#para6{
+    margin-left: 250px;
+    font-size: 25px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+#para7{
+    margin-left: 250px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#para8{
+    margin-left: 700px;
+    font-weight: bold;
+}
+
+#row7{
+    background-color: white;
+}
+
+#table1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#row8{
+    background-color: white;
+}
+
+#para9{
+    text-align: center;
+    font-size: 40px;
+    color: maroon;
+    padding-top: 10px;
+}
+
+#para10{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+#para11{
+    margin-left: 800px;
+    font-weight: bold;
+}
+
+#row9{
+    background-color: white;
+}
+
+#table2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#row10{
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+#row11{
+    background-color: black;
+    text-align: center;
+}
+
+#row12{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
